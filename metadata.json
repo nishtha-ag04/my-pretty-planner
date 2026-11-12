@@ -1,0 +1,6 @@
+{
+  "name": "My Pretty Planner 💗🎀",
+  "description": "A cute, highly-customizable aesthetic interactive productivity center featuring a personal file storehouse, progress analytics, custom calculators, customizable tasks, and an admin hyper-control dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
